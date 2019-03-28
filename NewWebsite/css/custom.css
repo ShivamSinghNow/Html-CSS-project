@@ -1,0 +1,17 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron {text-align: center;
+}
+.jumbotron h1 {
+	font-family: 'Indie Flower', cursive;
+}
+.btn-lg {font-size: 28px}
+.jumbotron p{
+	font-family: 'Modern Antiqua', cursive;
+}
+.topbar{
+	font-size: 24px
+}
